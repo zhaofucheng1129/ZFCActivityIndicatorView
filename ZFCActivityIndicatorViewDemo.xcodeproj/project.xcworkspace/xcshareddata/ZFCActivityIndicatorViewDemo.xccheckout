@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>82CBA9E8-0B00-4F36-9EDD-1EC9C30A45AD</string>
+	<key>IDESourceControlProjectName</key>
+	<string>ZFCActivityIndicatorViewDemo</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>D5E0F5B2-73F2-46EE-9683-B535EFFDF49F</key>
+		<string>ssh://github.com/zhaofucheng1129/ZFCActivityIndicatorView.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>ZFCActivityIndicatorViewDemo.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>D5E0F5B2-73F2-46EE-9683-B535EFFDF49F</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>ssh://github.com/zhaofucheng1129/ZFCActivityIndicatorView.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>D5E0F5B2-73F2-46EE-9683-B535EFFDF49F</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>D5E0F5B2-73F2-46EE-9683-B535EFFDF49F</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ZFCActivityIndicatorView</string>
+		</dict>
+	</array>
+</dict>
+</plist>
